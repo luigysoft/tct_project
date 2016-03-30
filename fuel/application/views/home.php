@@ -1,0 +1,1 @@
+<?=fuel_set_var('layout', '')?>

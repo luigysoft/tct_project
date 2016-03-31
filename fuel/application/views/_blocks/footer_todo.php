@@ -12,6 +12,8 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
 	<!--?php echo js('main').js($js); ?-->
+	<?php echo js('jquery').js($js); ?>
+	<?php echo js('bootstrap.min.js').js($js); ?>
 	<?php echo js('holder').js($js); ?>
   </body>
 </html>
